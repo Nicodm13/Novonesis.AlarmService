@@ -1,6 +1,6 @@
 ﻿namespace Novonesis.AlarmService.Core.Model {
     /// <summary>
-    /// Recpord record for a refrigerated container.
+    /// Record for a freezer container.
     /// </summary>
     /// <param name="ContainerId">Provider-issued container identifier.</param>
     /// <param name="Ts">UTC timestamp when the sample was measured.</param>
